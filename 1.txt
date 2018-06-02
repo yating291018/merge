@@ -17,4 +17,14 @@ Aaaaaaa
 Fadaff
 Fdasfas
 
+<<<<<<< HEAD
 Fads
+=======
+Fads
+Fdaff
+Fads
+Fads
+Fads
+Fdaf
+Fad
+>>>>>>> hu-dev
