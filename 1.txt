@@ -41,7 +41,6 @@ fasdf
 fadsaffdafdfa
 
 fad
-<<<<<<< HEAD
 
 
 fadfsf
@@ -49,8 +48,10 @@ fadfsf
 fadffasfsaffdsaf
 
 这是master的修改
-=======
 fadffasfsaffdsaf
 
 这是hu-dev的修改
->>>>>>> 655cd13... 这是hu-dev的修改
+
+本地修改
+
+
